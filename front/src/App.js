@@ -9,9 +9,9 @@ function App() {
         <ReactTable />
       </header>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
 
 
